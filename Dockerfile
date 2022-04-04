@@ -1,1 +1,1 @@
-   FROM k8s.gcr.io/hyperkube:v1.19.6
+   FROM catalystcloud/hyperkube:v1.19.6
